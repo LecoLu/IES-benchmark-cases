@@ -1,0 +1,4 @@
+1. The data in red is the initial condition.  
+2. The data in blue is the boundary condition.
+3. The initial guess is designed for calculations for 2<=t<=Nt
+4. 1<=t<=720

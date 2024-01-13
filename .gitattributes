@@ -1,3 +1,8 @@
-.fileextension filter=lfs diff=lfs merge=lfs -text
-.zip filter=lfs diff=lfs merge=lfs -text
-.xlsx filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]of[[:space:]]GS[[:space:]]in[[:space:]]Section[[:space:]]V.A&B/M2-GS/Case3-Matrix-Model1.xlsx filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]of[[:space:]]GS[[:space:]]in[[:space:]]Section[[:space:]]V.A&B/M2-GS/Case3-Matrix-Model2.xlsx filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]of[[:space:]]GS[[:space:]]in[[:space:]]Section[[:space:]]V.A&B/M2-GS/Case3-Matrix-Model3.xlsx filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]of[[:space:]]GS[[:space:]]in[[:space:]]Section[[:space:]]V.A&B/M2-GS/Case3-Matrix-Model4.xlsx filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]of[[:space:]]GS[[:space:]]in[[:space:]]Section[[:space:]]V.A&B/M2-GS/Case3-Matrix-Model5.xlsx filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]of[[:space:]]GS[[:space:]]in[[:space:]]Section[[:space:]]V.A&B/M2-GS/Case3-Result.xlsx filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]of[[:space:]]GS[[:space:]]in[[:space:]]Section[[:space:]]V.A&B/M2-GS/Case3-Settings.xlsx filter=lfs diff=lfs merge=lfs -text

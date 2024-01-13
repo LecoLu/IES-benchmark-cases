@@ -1,0 +1,5 @@
+1. The units of pressures and mass flow rate are MPa, kg/s;
+2. The data in red is the initial condition.  
+3. The data in blue is the boundary condition.
+4. The initial guess is designed for calculations for 2<=t<=Nt in GS-Model1, 2, 3, 6.
+5. 1<=t<=720
